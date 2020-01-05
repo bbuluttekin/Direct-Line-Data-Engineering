@@ -1,2 +1,4 @@
 *.pdf
 *.zip
+.vscode/
+.ipynb_checkpoints/
