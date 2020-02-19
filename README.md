@@ -4,5 +4,5 @@ Please find python implementation of the parquet file conversion and notes in `p
 
 ### Installation
 
-`>>> pip install -f requirements.txt`
+`>>> pip install -r requirements.txt`
 
